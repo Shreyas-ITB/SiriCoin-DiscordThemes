@@ -11,3 +11,9 @@ SiriCoin based Discord themes using Betterdiscord
 7). Now, Finally click on the switch icon to enable the theme and you are done! <br />
 
 Enjoy!
+
+# Images
+
+![image]()
+
+![]()
