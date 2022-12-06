@@ -14,6 +14,6 @@ Enjoy!
 
 # Images
 
-![image]()
+![image](https://github.com/Shreyas-ITB/SiriCoin-DiscordThemes/blob/main/images/SiriCoinDark.png)
 
-![]()
+![image](https://github.com/Shreyas-ITB/SiriCoin-DiscordThemes/blob/main/images/SiriCoinLight.png)
