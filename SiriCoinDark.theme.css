@@ -1,0 +1,40 @@
+/**
+* @name SiriCoin Dark Theme
+* @version Auto Update
+* @description This theme is heavily inspired by SiriCoin cryptocurrency - Based on neutron
+* @author Shreyas-ITB
+* @invite VcS74f5zK4
+* @Source https://github.com/Shreyas-ITB/SiriCoin-DiscordThemes
+* @website https://betterdiscord.app/theme/SiriCoinDark
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+:root {
+--themeColor1: #ff1c9a;
+--themeColor2: #ffaa40;
+--customFont: 'Poppins';
+--homeImage: url('https://i.imgur.com/BhtdT1z.png');
+--homeImageSize: cover;
+--backgroundColor: #fe5379;
+--backgroundImage: url('https://i.imgur.com/iV5wr3x.png');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 100px;
+--backgroundOpacity: 1;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
